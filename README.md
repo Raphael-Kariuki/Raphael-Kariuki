@@ -6,6 +6,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  alt="github" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg"   alt="postman" width="40" height="40" /> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"  alt="bash" width="40" height="40" /> </a>          
+           
+          
 </div>
           
            
